@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "postinstall": "npm run test",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "assessment:1": "node ./src/assessments/01/index.js"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.24.6",
