@@ -53,7 +53,7 @@ Print a single integer representing the maximum profit that can be achieved.
 
 **Explanation:**
 
-- Buy on day 0 (price = 1) and sell on day 4 (price = 5), profit = 5-1 = 4.
+- Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-1 = 4.
 - Total profit = 4.
 
 ### Example 3
