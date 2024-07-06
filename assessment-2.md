@@ -10,7 +10,7 @@ Character to Number Mapping:
  'b' = 1
  'c' = 2
  
- 'i' = 9
+ 'i' = 8
 ```
 
 ###  Input: 
@@ -37,7 +37,7 @@ Explanation: Convert each string to its corresponding numerical value:
  "bcad" -> 1230
  "aaef" -> 0045
  "bac" -> 102
- "iaa" -> 900
+ "iaa" -> 800
  ```
 
  Compare the numerical values:
@@ -47,7 +47,7 @@ Explanation: Convert each string to its corresponding numerical value:
 1230 (bcad)
 0045 (aaef)
 102 (bac)
-900 (iaa)
+800 (iaa)
 ```
 
 The string "bcad" represents the largest numerical value (1230), so it is the output.
